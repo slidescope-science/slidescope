@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you used SlideScope to view, measure or annotate images in your work, please cite it as below."
+type: software
+title: "SlideScope: desktop digital pathology and microscopy viewer"
+authors:
+  - name: "SlideScope"
+    website: "https://slidescope.science/"
+url: "https://slidescope.science/"
+abstract: >-
+  SlideScope is a desktop viewer for whole slide images and research microscopy files on
+  Windows and macOS. It opens Aperio SVS, Hamamatsu NDPI, 3DHISTECH MRXS, Leica SCN,
+  Ventana BIF, Akoya QPTIFF, DICOM WSI, ZEISS CZI, Nikon ND2, Leica LIF, Imaris IMS and
+  TIFF/OME-TIFF files locally, with calibrated measurement, annotations, GeoJSON and
+  OME-TIFF export, and side-by-side comparison.
+keywords:
+  - digital pathology
+  - whole slide imaging
+  - microscopy
+  - image viewer
+  - histology
+  - SVS
+  - NDPI
+  - CZI
+  - ND2
+  - DICOM
+  - OME-TIFF
+identifiers:
+  - type: url
+    value: "https://bio.tools/slidescope"
+    description: "bio.tools registry entry"
+  - type: url
+    value: "https://www.wikidata.org/wiki/Q140797497"
+    description: "Wikidata item"
